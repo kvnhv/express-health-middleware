@@ -1,6 +1,6 @@
 # Express Health Middleware
 
-This middleware adds four useful API's to monitor the existing express application.
+This middleware adds four useful API's to monitor the express application.
 
 ## Installation
 
