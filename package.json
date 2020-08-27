@@ -1,0 +1,29 @@
+{
+  "name": "express-health-middleware",
+  "version": "1.0.0",
+  "description": "This middleware helps to add endpoints to monitor the express applications",
+  "main": "./lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvnhv/express-health-middleware.git"
+  },
+  "keywords": [
+    "Express",
+    "Node",
+    "express-health",
+    "express-health-middleware",
+    "health-check",
+    "health",
+    "monitoring",
+    "metrics"
+  ],
+  "author": "Venkatesh KVNH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kvnhv/express-health-middleware/issues"
+  },
+  "homepage": "https://github.com/kvnhv/express-health-middleware#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
