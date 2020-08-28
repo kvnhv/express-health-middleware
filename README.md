@@ -24,7 +24,7 @@ app.use('/basePath', expressHealth());
 
 # API's
 
-path | Description
+API | Description
 --- | ---
 `/about` | Returns application information.
 `/health` | Returns 200 status code.
